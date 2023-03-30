@@ -47,7 +47,7 @@
 
 <div align ="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando473&hide_progress=false&langs_count=15)](https://github.com/Fernando473/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando473&hide_progress=false&langs_count=5)](https://github.com/Fernando473/github-readme-stats)
   
   </div>
 
