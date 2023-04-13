@@ -4,7 +4,7 @@
   </h1>
   <hr></hr>
 
-- Last year Software Engineer student at Escuela Politécnica Nacional. I am 23 years old and currently I am living in Quito. I know programing Languages like C, C++, Python, Javascript, Java and a litle bit of Frameworks like Spring (Java) and React JS (Javascript), now I am improving my skills on this  frameworks. I know about SCRUM. I have used tools to versioning like GIT, GITKRAKEN and GITHUG Desktop also I have knowledge about Databases  and SQL.
+- Last year Software Engineer student at Escuela Politécnica Nacional. I am 23 years old and currently I am living in Quito. I know programing Languages like C, C++, Python, Javascript, Java and  Frameworks like Spring (Java), React JS (Javascript) and DJANGO REST, now I am improving my skills on this  frameworks. I know about SCRUM. I have used tools to versioning like GIT, GITKRAKEN and GITHUB Desktop also I have knowledge about Databases, SQL and GRAPHQL.
 
 - 👀 I’m interested in know about the Software Industrie and improve my skills.
 - 🌱 I’m currently learning Mobile Development with Kotlin,I am deepening my knowledge in React JS and Spring Boot.
