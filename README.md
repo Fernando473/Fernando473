@@ -12,8 +12,14 @@ In addition to my technical skills, I am also familiar with project management m
 My main goal is to continue improving my skills and knowledge within the software industry. I am always eager to learn about new technologies and undertake challenging projects that help me grow both professionally and personally.
 <hr></hr>
 
-<div >
-<div align="center" style="display:flex; justify-content:space-around">
+<table >
+  <tr>
+  <th> Frontend </th>
+  <th> Backend </th>
+  <th> Database </th>
+  </tr>
+
+<tr>
 
    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" height="50px" width="50px"
        />
@@ -24,7 +30,7 @@ My main goal is to continue improving my skills and knowledge within the softwar
                  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="50px" width="50px"
        />
 
-</div>
+</tr>
 <div align="center">
   <p style="color:red;"> Frontend</p>
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50px" width="50px"
