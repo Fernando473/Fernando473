@@ -31,8 +31,8 @@ My main goal is to continue improving my skills and knowledge within the softwar
        />
   </td>
 </tr>
-<div align="center">
-  <p style="color:red;"> Frontend</p>
+<tr >
+  <td>
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50px" width="50px"
        />
            <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="50px" width="50px"
@@ -41,6 +41,8 @@ My main goal is to continue improving my skills and knowledge within the softwar
        />
                 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="50px" width="50px"
        />
+    </td>
+   </tr> 
       
 </table>
 <hr> </hr>
