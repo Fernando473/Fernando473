@@ -13,7 +13,7 @@ My main goal is to continue improving my skills and knowledge within the softwar
 <hr></hr>
 
 <div  >
-<div align="left">
+<div align="center">
   <strong>Backend </strong>
    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" height="50px" width="50px"
        />
@@ -35,11 +35,27 @@ My main goal is to continue improving my skills and knowledge within the softwar
        />
                 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="50px" width="50px"
        />
-</div>
-
-</div>
 
 <hr> </hr>
+<div>
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+</div>
 
 
 ### My stats: 
