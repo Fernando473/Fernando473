@@ -42,7 +42,12 @@ My main goal is to continue improving my skills and knowledge within the softwar
                 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="50px" width="50px"
        />
     </td>
-   </tr> 
+</tr> 
+<tr>
+<td>
+None
+</td>
+</tf>
       
 </table>
 <hr> </hr>
