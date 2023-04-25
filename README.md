@@ -20,7 +20,7 @@ My main goal is to continue improving my skills and knowledge within the softwar
   </tr>
 
 <tr>
-
+  <td>
    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" height="50px" width="50px"
        />
                <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" height="50px" width="50px"
@@ -29,7 +29,7 @@ My main goal is to continue improving my skills and knowledge within the softwar
        />
                  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="50px" width="50px"
        />
-
+  </td>
 </tr>
 <div align="center">
   <p style="color:red;"> Frontend</p>
@@ -41,7 +41,8 @@ My main goal is to continue improving my skills and knowledge within the softwar
        />
                 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="50px" width="50px"
        />
-</div>
+      
+</table>
 <hr> </hr>
 <div>
 <table>
