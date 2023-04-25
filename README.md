@@ -30,8 +30,6 @@ My main goal is to continue improving my skills and knowledge within the softwar
                  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="50px" width="50px"
        />
   </td>
-</tr>
-<tr >
   <td>
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50px" width="50px"
        />
@@ -41,13 +39,9 @@ My main goal is to continue improving my skills and knowledge within the softwar
        />
                 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="50px" width="50px"
        />
-    </td>
-</tr> 
-<tr>
-<td>
-None
-</td>
-</tf>
+          </td>
+</tr>
+
       
 </table>
 <hr> </hr>
