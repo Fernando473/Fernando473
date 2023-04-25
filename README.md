@@ -13,7 +13,7 @@ My main goal is to continue improving my skills and knowledge within the softwar
 <hr></hr>
 
 <div style="display:flex; justify-content:space-around;" >
-<fieldset align="left">
+<div align="left">
   <p>Backend </p>
    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" height="50px" width="50px"
        />
@@ -24,8 +24,8 @@ My main goal is to continue improving my skills and knowledge within the softwar
                  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="50px" width="50px"
        />
 
-</fieldset>
-<fieldset align="center">
+</div>
+<div align="center">
   <p style="color:red;"> Frontend</p>
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50px" width="50px"
        />
@@ -35,7 +35,7 @@ My main goal is to continue improving my skills and knowledge within the softwar
        />
                 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="50px" width="50px"
        />
-</fieldset>
+</div>
 
 </div>
 
