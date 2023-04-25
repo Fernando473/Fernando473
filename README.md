@@ -16,6 +16,7 @@ My main goal is to continue improving my skills and knowledge within the softwar
   <tr>
   <th> Frontend </th>
   <th> Backend </th>
+  <th> Mobile </th>
   <th> Database </th>
   </tr>
 
@@ -29,6 +30,8 @@ My main goal is to continue improving my skills and knowledge within the softwar
        />
                  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="50px" width="50px"
        />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" height="50px" width="50px"
+       />
   </td>
   <td>
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50px" width="50px"
@@ -39,35 +42,22 @@ My main goal is to continue improving my skills and knowledge within the softwar
        />
                 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="50px" width="50px"
        />
-          </td>
-    <td>
+  </td>
+  <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" height="50px" width="50px"
+       />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" height="50px" width="50px"
+       />
+  </td>
+  <td>
                     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="50px" width="50px"
        />
-    </td>
+  </td>
 </tr>
-
-      
+    
 </table>
 <hr> </hr>
-<div>
-<table>
-  <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
-</table>
-</div>
+
 
 
 ### My stats: 
