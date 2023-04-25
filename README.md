@@ -13,7 +13,7 @@ My main goal is to continue improving my skills and knowledge within the softwar
 <hr></hr>
 
 <div >
-<div align="center">
+<div align="center" style="display:flex; justify-content:space-around">
 
    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" height="50px" width="50px"
        />
