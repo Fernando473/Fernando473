@@ -11,23 +11,42 @@ In addition to my technical skills, I am also familiar with project management m
 
 My main goal is to continue improving my skills and knowledge within the software industry. I am always eager to learn about new technologies and undertake challenging projects that help me grow both professionally and personally.
 <hr></hr>
-<div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" height="50px" width="50px"
+
+<div style="display:flex; justify-content:space-around;" >
+<fieldset style="">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" height="50px" width="50px"
        />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="50px" width="50px"
+               <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" height="50px" width="50px"
        />
+                 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height="50px" width="50px"
+       />
+                 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="50px" width="50px"
+       />
+
+</fieldset>
+<fieldset>
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50px" width="50px"
        />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" height="50px" width="50px"
+           <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="50px" width="50px"
        />
-          <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="50px" width="50px"
+             <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="50px" width="50px"
        />
-          <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height="50px" width="50px"
+
+         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="50px" width="50px"
        />
-          <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="50px" width="50px"
-       />
-          <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="50px" width="50px"
-       />
+</fieldset>
+<fieldset>
+
+</fieldset>
+</div>
+
+<div align="left">
+
+
+
+
+
+
   </div>
 <hr> </hr>
 
