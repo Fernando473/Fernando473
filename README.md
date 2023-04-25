@@ -14,7 +14,7 @@ My main goal is to continue improving my skills and knowledge within the softwar
 
 <div style="display:flex; justify-content:space-around;" >
 <div align="left">
-  <p>Backend </p>
+  <strong>Backend </strong>
    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" height="50px" width="50px"
        />
                <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" height="50px" width="50px"
