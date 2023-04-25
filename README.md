@@ -13,7 +13,7 @@ My main goal is to continue improving my skills and knowledge within the softwar
 <hr></hr>
 
 <div style="display:flex; justify-content:space-around;" >
-<fieldset>
+<fieldset align="left">
   <p>Backend </p>
    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" height="50px" width="50px"
        />
@@ -25,7 +25,7 @@ My main goal is to continue improving my skills and knowledge within the softwar
        />
 
 </fieldset>
-<fieldset>
+<fieldset align="center">
   <p style="color:red;"> Frontend</p>
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50px" width="50px"
        />
