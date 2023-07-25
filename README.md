@@ -14,8 +14,8 @@ My main goal is to continue improving my skills and knowledge within the softwar
 
 <table >
   <tr>
-  <th> Frontend </th>
   <th> Backend </th>
+  <th> Frontend </th>
   <th> Mobile </th>
   <th> Database </th>
   </tr>
