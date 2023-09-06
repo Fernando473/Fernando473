@@ -7,7 +7,7 @@ Hello! I am a software engineering student at the Escuela Politécnica Nacional,
 
 While I know about those frameworks, I am always looking to improve my skills and keep up with the latest industry trends. As a result, I'm currently focusing on deepening my knowledge of React JS and Spring Boot, and I'm also learning mobile development with Kotlin.
 
-In addition to my technical skills, I am also familiar with project management methodologies like SCRUM. I have experience using version control tools like GIT, GITKRAKEN, and GITHUB Desktop, and I know databases like SQL and GRAPHQL.
+In addition to my technical skills, I am also familiar with project management methodologies like SCRUM. I have experience using version control tools like GIT, GITKRAKEN, and GITHUB Desktop, and I know databases SQLServer, PostgreSQL, MySQL and MongoD.
 
 My main goal is to continue improving my skills and knowledge within the software industry. I am always eager to learn about new technologies and undertake challenging projects that help me grow both professionally and personally.
 <hr></hr>
