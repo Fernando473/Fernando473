@@ -3,7 +3,7 @@
   👋 Hi, I’m Fernando Sangopanta 
   </h1>
   <hr></hr>
-Hello! I am a software engineering student at the Escuela Politécnica Nacional, and I currently live in Quito. I have a strong background in programming languages like C, C++, Python, JavaScript, and Java, as well as some experience with popular frameworks like Spring (Java), React JS (JavaScript), and DJANGO REST.
+Hello! I am a Software Enginner, and I currently live in Quito. I have a strong background in programming languages like C, C++, Python, JavaScript, and Java, as well as some experience with popular frameworks like Spring (Java), React JS (JavaScript), and DJANGO REST.
 
 While I know about those frameworks, I am always looking to improve my skills and keep up with the latest industry trends. As a result, I'm currently focusing on deepening my knowledge of React JS and Spring Boot, and I'm also learning mobile development with Kotlin.
 
