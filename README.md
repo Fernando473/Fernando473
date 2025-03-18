@@ -3,13 +3,18 @@
   👋 Hi, I’m Fernando Sangopanta 
   </h1>
   <hr></hr>
-Hello! I am a Software Enginner, and I currently live in Quito. I have a strong background in programming languages like C, C++, Python, JavaScript, and Java, as well as some experience with popular frameworks like Spring (Java), React JS (JavaScript), and DJANGO REST.
+Hello! I am a Software Engineer and Full Stack Developer with experience in web applications. I specialize in Angular for the frontend and Django and Spring Boot for the backend, applying Clean Architecture principles. I am familiar with Scrum and Kanban, a quick learner, and passionate about problem-solving. I thrive in cross-functional teams and am committed to continuous innovation and growth in the software industry.
 
-While I know about those frameworks, I am always looking to improve my skills and keep up with the latest industry trends. As a result, I'm currently focusing on deepening my knowledge of React JS and Spring Boot, and I'm also learning mobile development with Kotlin.
-
-In addition to my technical skills, I am also familiar with project management methodologies like SCRUM. I have experience using version control tools like GIT, GITKRAKEN, and GITHUB Desktop, and I know databases SQLServer, PostgreSQL, MySQL and MongoD.
-
-My main goal is to continue improving my skills and knowledge within the software industry. I am always eager to learn about new technologies and undertake challenging projects that help me grow both professionally and personally.
+Experience
+<ul>
+  <li>Developed RESTful APIs with Django and worked with GraphQL and PostgreSQL.</li>
+  <li>Implemented PayPal integration, real-time communication using WebSockets, and intelligent agents with LangChain.</li>
+  <li>Applied Clean Architecture and DDD, sentiment analysis with Hugging Face, and speech transcription services with Deepgram.</li>
+  <li>Worked with Docker, GitHub Actions for CI/CD, and Google Cloud for cloud storage.</li>
+  <li>Built web applications using Spring Boot and Flask, creating dynamic interfaces with Angular.</li>
+  <li>Developed API integrations with Elsevier's API and used Neo4j for data modeling.</li>
+</ul>
+I am always looking for new challenges and opportunities to refine my skills and contribute to innovative projects. 🚀
 <hr></hr>
 
 <table >
