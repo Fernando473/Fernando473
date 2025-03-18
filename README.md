@@ -5,7 +5,7 @@
   <hr></hr>
 Hello! I am a Software Engineer and Full Stack Developer with experience in web applications. I specialize in Angular for the frontend and Django and Spring Boot for the backend, applying Clean Architecture principles. I am familiar with Scrum and Kanban, a quick learner, and passionate about problem-solving. I thrive in cross-functional teams and am committed to continuous innovation and growth in the software industry.
 
-
+<hr>
 <strong> Experience </strong>
 
 <ul>
